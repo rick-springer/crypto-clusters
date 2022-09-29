@@ -1,8 +1,3 @@
-# CONCLUSION / RECOMMENDATION TO CLIENTS
-
-Cryptocurrencies seem to be clustered together into 4 distinct groups. I would like to analyze these clusters for segmentation trends, looking at the average, globally, of the total coins mined and the total supply of all of the coins data compared to the 'class' average data for each column.
-
-
 # Cryptocurrency Clusters
 
 ## Background
@@ -55,4 +50,4 @@ Crypto Coin Comparison Ltd. (2020) Coin market capitalization lists of crypto cu
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary.
